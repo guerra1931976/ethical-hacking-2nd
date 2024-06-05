@@ -1,2 +1,2 @@
 # ethical-hacking-2nd
-Ethical Hacking Sapienza's Course, Second assignment by group 1
+Ethical Hacking Sapienza's Course, Second assignment by group 2
